@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Chikago Futsal",
+    "category": "Futsal",
+    "desc": "Biasalah foto-foto kite futsal aje isinye, kali nanti bisa futsal di brazil",
+    "photos": []
+  },
+  {
+    "id": 2,
+    "title": "Chikago Minsoc Vol.1",
+    "category": "Mini-Soccer",
+    "desc": "Karena kita ga nyewa FG, jadinya foto minsoc vol.1 kita begini guys",
+    "photos": []
+  },
+  {
+    "id": 3,
+    "title": "Chikago Jalan-jalan",
+    "category": "Travel",
+    "desc": "Berkelana aja, tapi bukan ke negara sepak bola.",
+    "photos": [],
+    "createdAt": "2026-10-21T11:53:52.399Z"
+  }
+]

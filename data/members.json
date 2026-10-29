@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "nama": "DA-NYL",
+    "role": "Pengiring Musik",
+    "hobi": "Pesta",
+    "quotes": "I'am Everyone i Loved <3",
+    "laguSpotify": "https://open.spotify.com/track/0NvJy5gPR591Qh2z22EAak?si=VK9H1ieQSiSM5ZGSQT9U7Q&utm_source=copy-link",
+    "lagu": {
+      "judul": "DJ Ayam",
+      "artis": "Unknown Artist",
+      "album": "DJ Ayam"
+    },
+    "foto": "/uploads/members/1792601275013-32140976.png",
+    "fotoZoom": 1.25,
+    "fotoPosX": 43,
+    "fotoPosY": 54
+  },
+  {
+    "id": 2,
+    "nama": "Aan",
+    "role": "Dokter Chikago",
+    "hobi": "Ngedinginin HP pake es batu",
+    "quotes": "Hiduplah seperti macan yang menerkam",
+    "laguSpotify": "https://open.spotify.com/track/0bKzjP0DzD02Zmcm9qNoJQ?si=0db6042aebf54f0e",
+    "lagu": {
+      "judul": "DJ Pata-Pata",
+      "artis": "Unknown Artist",
+      "album": "DJ VAPESTORE"
+    },
+    "foto": "/uploads/members/1792598925134-56600115.png",
+    "fotoZoom": 1.2,
+    "fotoPosX": 53,
+    "fotoPosY": 52
+  },
+  {
+    "id": 3,
+    "nama": "I'am Alperri",
+    "role": "Penari Latar",
+    "hobi": "Ngagetin Nenek - Nenek Terdekat",
+    "quotes": "Oeee...Oeee...",
+    "laguSpotify": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed?si=3cb44c8a1e0741ed",
+    "lagu": {
+      "judul": "Blue Lotus",
+      "artis": "Ali",
+      "album": "Pulse"
+    },
+    "foto": "/uploads/members/1792602059982-586467483.png",
+    "fotoZoom": 1.15,
+    "fotoPosX": 51,
+    "fotoPosY": 60
+  },
+  {
+    "id": 4,
+    "nama": "Ucup",
+    "role": "Filsuf Chikago",
+    "hobi": "Buatin puisi buat orang perancis",
+    "quotes": "Hidup begini-gini bae yak",
+    "laguSpotify": "https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN?si=fd438cf2bc42445f",
+    "lagu": {
+      "judul": "Lagu Perancis dah pokoknya",
+      "artis": "Orang Perancis",
+      "album": "Paris"
+    },
+    "foto": "/uploads/members/1792781949107-486767775.png",
+    "fotoZoom": 1.15,
+    "fotoPosX": 46,
+    "fotoPosY": 47
+  },
+  {
+    "id": 5,
+    "nama": "Rizky White",
+    "role": "Kadang flank kiri, kadang flank kanan",
+    "hobi": "Cetak hattrick ke gawang fajri",
+    "quotes": "Ingin rasanya di tatap sedalam liang tak berujung, di genggam bak aku takkan kembali, di cium layaknya bunga di musim semi. Aku ingin dicintai bak prajurit semut yang rela mempertaruhkan jiwa raganya demi sang ratu.",
+    "laguSpotify": "https://open.spotify.com/track/6Ars2LzSDBTk4XzIlMtqEK?si=c535deb517b94276",
+    "lagu": {
+      "judul": "Terbuang Dalam Waktu",
+      "artis": "Barasuara",
+      "album": "Jalaran Sadrah"
+    },
+    "foto": "/uploads/members/1792599191882-792824588.png",
+    "fotoZoom": 1.1,
+    "fotoPosX": 50,
+    "fotoPosY": 50
+  },
+  {
+    "id": 6,
+    "nama": "Kicil",
+    "role": "Midfielder",
+    "hobi": "Pake jersey Mathaus",
+    "quotes": "Nasinya dua pak vincent",
+    "laguSpotify": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4?si=4a3fe8f59d1741df",
+    "lagu": {
+      "judul": "mejikuhibiniu",
+      "artis": "Tenxi",
+      "album": "mejikuhibiniu"
+    },
+    "foto": "/uploads/members/1792781746119-484406255.png",
+    "fotoZoom": 1.8,
+    "fotoPosX": 46,
+    "fotoPosY": 56
+  },
+  {
+    "id": 7,
+    "nama": "Rizkyrizky32",
+    "role": "Bimbing anak\" tapi bukan ustadz",
+    "hobi": "Cium tangan orang tua sebelum keluar rumah",
+    "quotes": "Hidup tuh harus begini, jangan begitu, kalo hidup kita",
+    "laguSpotify": "https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D?si=9b3a178c9862427b",
+    "lagu": {
+      "judul": "The Less I Know The Better",
+      "artis": "Tame Impala",
+      "album": "The Less I Know The Better"
+    },
+    "foto": "/uploads/members/1792780905957-257626299.png",
+    "fotoZoom": 1.15,
+    "fotoPosX": 57,
+    "fotoPosY": 39
+  },
+  {
+    "id": 8,
+    "nama": "ART sa",
+    "role": "Pengiring Musik",
+    "hobi": "Ngiringin Anak - Anak Ajah...",
+    "quotes": "Kok Kalo Bangun Tidur Yang Bangun Dua Yaaa?",
+    "laguSpotify": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo?si=543cfe91287142d8",
+    "lagu": {
+      "judul": "Conundrum",
+      "artis": "The SIGIT",
+      "album": "Conundrum"
+    },
+    "foto": "/uploads/members/1792598951453-193227526.png",
+    "fotoZoom": 1.15,
+    "fotoPosX": 51,
+    "fotoPosY": 45
+  },
+  {
+    "id": 9,
+    "nama": "Reza",
+    "role": "Orang Baek",
+    "hobi": "Ke Bandung",
+    "quotes": "Dan bandung, bagiku bukan cuma urusan wilayah belaka",
+    "laguSpotify": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R?si=3afa07f2658642e2",
+    "lagu": {
+      "judul": "Males nanya",
+      "artis": "gatau",
+      "album": "gataudah pokoknya"
+    },
+    "foto": "/uploads/members/1792781110439-168234896.png",
+    "fotoZoom": 1.9,
+    "fotoPosX": 46,
+    "fotoPosY": 0
+  },
+  {
+    "id": 10,
+    "nama": "Fathur",
+    "role": "Wayang Chikago",
+    "hobi": "Bikin Kopi & Jadi Meme Hidup",
+    "quotes": "Fadhil anak ng.....",
+    "laguSpotify": "https://open.spotify.com/track/2xZlgYdmv5ybdl8QomB1ZJ?si=da55b98f1abd4842",
+    "lagu": {
+      "judul": "Plaza Avenue",
+      "artis": "Ardhito Pramono",
+      "album": "Craziest Thing Happened in My Life"
+    },
+    "foto": "/uploads/members/1792595941677-918437100.png"
+  },
+  {
+    "id": 11,
+    "nama": "Suks",
+    "role": "Gitaris Chikago",
+    "hobi": "Maen Lagu Perunggu",
+    "quotes": "Siul Pake Tangan Aja Dah",
+    "laguSpotify": "https://open.spotify.com/track/41SATlmlnwMU0vhOI6qe5K?si=8e44299c0d334b8b",
+    "lagu": {
+      "judul": "Kalibata 2012",
+      "artis": "Perunggu",
+      "album": "33x"
+    },
+    "foto": "/uploads/members/1792782192170-738504745.png",
+    "fotoZoom": 1.95,
+    "fotoPosX": 49,
+    "fotoPosY": 30
+  },
+  {
+    "id": 12,
+    "nama": "Babs",
+    "role": "Versatile",
+    "hobi": "Gocek Orang",
+    "quotes": "Mau Ikut ke Perancis?",
+    "laguSpotify": "https://open.spotify.com/track/60LWmlDdZ2482qQziKsCjF?si=e6beb3a2ccc44384",
+    "lagu": {
+      "judul": "your head as my favourite book store",
+      "artis": "eleventwelfth",
+      "album": "another night awake with you on my mind"
+    },
+    "foto": "/uploads/members/1792781084949-470116013.png",
+    "fotoZoom": 1.65,
+    "fotoPosX": 44,
+    "fotoPosY": 49
+  },
+  {
+    "id": 13,
+    "nama": "Sena",
+    "role": "Penata Rias",
+    "hobi": "Berbagi Energi Positif",
+    "quotes": "JANGAN TAKUT BUAT BERAK SEMBARI TELANJANG COY",
+    "laguSpotify": "https://open.spotify.com/track/2pW5kNCx133MWWirxegvng?si=43239c7b01e247ca",
+    "lagu": {
+      "judul": "Penghujung Cerita",
+      "artis": "Murphy Radio",
+      "album": "Debu Kan Kembali Menjadi Debu"
+    },
+    "foto": "/uploads/members/1792780933924-793374995.png",
+    "fotoZoom": 2.05,
+    "fotoPosX": 50,
+    "fotoPosY": 67
+  },
+  {
+    "id": 14,
+    "nama": "Fajri",
+    "role": "Admin grup (jadi gabisa di kick)",
+    "hobi": "Buang t*i ke temen abis itu cabut",
+    "quotes": "Gua masuk siang ndri",
+    "laguSpotify": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9?si=cad188019e6d4d3b",
+    "lagu": {
+      "judul": "",
+      "artis": "",
+      "album": ""
+    },
+    "foto": "/uploads/members/1792781836310-56675595.png",
+    "fotoZoom": 1.15,
+    "fotoPosX": 44,
+    "fotoPosY": 78
+  }
+]
